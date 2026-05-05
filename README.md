@@ -32,6 +32,8 @@ Shows the closest point, statistics and distance visualization.
 
 ### Map view
 Displays nearby points with markers and navigation.
+
+
 ![Dashboard](https://github.com/user-attachments/assets/e2511860-fa35-4d25-9972-ba342cd0fbc4)
 
 

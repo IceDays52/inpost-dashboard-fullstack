@@ -26,14 +26,14 @@ The application:
 ### Dashboard view
 Shows the closest point, statistics and distance visualization.
 
-![Dashboard](https://github.com/user-attachments/assets/e2511860-fa35-4d25-9972-ba342cd0fbc4)
+![Map](https://github.com/user-attachments/assets/6f7487a4-d8b1-4aaa-beb1-27701a3c836a)
 
 ---
 
 ### Map view
 Displays nearby points with markers and navigation.
+![Dashboard](https://github.com/user-attachments/assets/e2511860-fa35-4d25-9972-ba342cd0fbc4)
 
-![Map](https://github.com/user-attachments/assets/6f7487a4-d8b1-4aaa-beb1-27701a3c836a)
 
 ---
 

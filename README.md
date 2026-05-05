@@ -28,6 +28,7 @@ Shows the closest point, statistics and distance visualization.
 
 ![Map](https://github.com/user-attachments/assets/6f7487a4-d8b1-4aaa-beb1-27701a3c836a)
 
+
 ---
 
 ### Map view
@@ -35,6 +36,28 @@ Displays nearby points with markers and navigation.
 
 
 ![Dashboard](https://github.com/user-attachments/assets/e2511860-fa35-4d25-9972-ba342cd0fbc4)
+---
+### Navigate button 
+---
+<img width="1389" height="564" alt="obraz" src="https://github.com/user-attachments/assets/1a13642e-9c5e-46cc-9dd3-30c74a7315e6" />
+
+---
+Google maps on website shows exactly where to find it 
+---
+<img width="1005" height="543" alt="obraz" src="https://github.com/user-attachments/assets/80885903-00ab-4202-b765-e9dd8995bbb7" />
+
+---
+
+
+
+
+
+### Options  and 24/7 
+---
+
+<img width="1007" height="523" alt="obraz" src="https://github.com/user-attachments/assets/a3e0cdbd-1e06-436d-ac24-1ed16ddae17a" />
+
+---
 
 
 ---
